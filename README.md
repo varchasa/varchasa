@@ -17,7 +17,7 @@
 
 - 🔭 I’m currently working on data science and technologies.
 - 💬 I would like to talk about data science and data visualization
-- 🌱 I’m currently learning about neuro-linguistic programming.
+- 🌱 I’m currently learning working on ML cheatsheet. 
 - 👯 I’m looking to collaborate on neuro-linguistic programming.
 - 💬 Ask me about python.
 - 📫 How to reach me: [Linkedin](https://linkedin.com/in/varchasaaggarwal06)
