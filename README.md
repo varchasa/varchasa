@@ -31,7 +31,7 @@
 [![website](https://img.shields.io/badge/PortfolioWebsite-varchasaaggarwal.herokuapp.com-2648ff?style=flat-square&logo=google-chrome)](https://varchasaaggarwal.herokuapp.com/)
 
 <br><br>
-[![Varchasa's github stats](https://github-readme-stats.vercel.app/api?username=varchasa)](https://github.com/varchasa/github-readme-stats)
+<!--[![Varchasa's github stats](https://github-readme-stats.vercel.app/api?username=varchasa)](https://github.com/varchasa/github-readme-stats)-->
 
  <details>
 <summary>📊 Github Stats</summary>
@@ -39,6 +39,8 @@
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=varchasa&show_icons=true&theme=gotham" alt="Varchasa Aggarwal | Stats" />
 
 </details>
+
+ ![Visitor Count](https://profile-counter.glitch.me/{varchasa}/count.svg)
 
 **Languages and Tools:**  
 <br>
