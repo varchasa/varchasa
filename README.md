@@ -26,19 +26,15 @@
 - 📫 How to reach me: [Linkedin](https://linkedin.com/in/varchasaaggarwal06)
 - 😄 Pronouns: Her/She 
 <br><br>
-[![Medium: Varchasa](https://img.shields.io/badge/-Varchasa-green?style=flat-square&logo=Medium&logoColor=white&link=https://varchasaaggarwal.medium.com/)](https://varchasaaggarwal.medium.com/)
-[![Linkedin: Varchasa](https://img.shields.io/badge/-Varchasa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/varchasaaggarwal06/)](https://www.linkedin.com/in/varchasaaggarwal06/)
-[![website](https://img.shields.io/badge/PortfolioWebsite-varchasaaggarwal.herokuapp.com-2648ff?style=flat-square&logo=google-chrome)](https://varchasaaggarwal.herokuapp.com/)
+[![Medium: Varchasa](https://img.shields.io/badge/-Varchasa-green?style=for-the-badge&logo=Medium&logoColor=white&link=https://varchasaaggarwal.medium.com/)](https://varchasaaggarwal.medium.com/)
+[![Linkedin: Varchasa](https://img.shields.io/badge/-Varchasa-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/varchasaaggarwal06/)](https://www.linkedin.com/in/varchasaaggarwal06/)
+[![website](https://img.shields.io/badge/PortfolioWebsite-varchasaaggarwal.herokuapp.com-2648ff?style=for-the-badge&logo=google-chrome)](https://varchasaaggarwal.herokuapp.com/)
+[![YouTube: Varchasa Codes](https://img.shields.io/badge/-Varchasa%20Codes-red?style=for-the-badge&logo=YouTube&logoColor=white&link=https://www.youtube.com/channel/UC5PbY-7GMuFvG7ifMwbqe2A/)](https://www.youtube.com/channel/UC5PbY-7GMuFvG7ifMwbqe2A/)
 
 <br><br>
-<!--[![Varchasa's github stats](https://github-readme-stats.vercel.app/api?username=varchasa)](https://github.com/varchasa/github-readme-stats)-->
+[![Varchasa's github stats](https://github-readme-stats.vercel.app/api?username=varchasa)](https://github.com/varchasa/github-readme-stats)
 
- <details>
-<summary>📊 Github Stats</summary>
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=varchasa&show_icons=true&theme=gotham" alt="Varchasa Aggarwal | Stats" />
-
-</details>
+<b>Profile View Count</b>
 
  ![Visitor Count](https://profile-counter.glitch.me/{varchasa}/count.svg)
 
