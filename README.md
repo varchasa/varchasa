@@ -33,6 +33,13 @@
 <br><br>
 [![Varchasa's github stats](https://github-readme-stats.vercel.app/api?username=varchasa)](https://github.com/varchasa/github-readme-stats)
 
+ <details>
+<summary>📊 Github Stats</summary>
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=varchasa&show_icons=true&theme=gotham" alt="Varchasa Aggarwal | Stats" />
+
+</details>
+
 **Languages and Tools:**  
 <br>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
