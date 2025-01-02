@@ -28,8 +28,6 @@
 <br><br>
 [![Medium: Varchasa](https://img.shields.io/badge/-Varchasa-green?style=for-the-badge&logo=Medium&logoColor=white&link=https://varchasaaggarwal.medium.com/)](https://varchasaaggarwal.medium.com/)
 [![Linkedin: Varchasa](https://img.shields.io/badge/-Varchasa-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/varchasaaggarwal06/)](https://www.linkedin.com/in/varchasaaggarwal06/)
-[![website](https://img.shields.io/badge/PortfolioWebsite-varchasaaggarwal.herokuapp.com-2648ff?style=for-the-badge&logo=google-chrome)](https://varchasaaggarwal.herokuapp.com/)
-[![YouTube: Varchasa Codes](https://img.shields.io/badge/-Varchasa%20Codes-red?style=for-the-badge&logo=YouTube&logoColor=white&link=https://www.youtube.com/channel/UC5PbY-7GMuFvG7ifMwbqe2A/)](https://www.youtube.com/channel/UC5PbY-7GMuFvG7ifMwbqe2A/)
 
 <br><br>
 [![Varchasa's github stats](https://github-readme-stats.vercel.app/api?username=varchasa)](https://github.com/varchasa/github-readme-stats)
