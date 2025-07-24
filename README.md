@@ -31,19 +31,17 @@
 
 <br><br>
 [![Varchasa's github stats](https://github-readme-stats.vercel.app/api?username=varchasa)](https://github.com/varchasa/github-readme-stats)
+ <br>
 
-<b>Profile View Count</b>
-
- ![Visitor Count](https://profile-counter.glitch.me/{varchasa}/count.svg)
+![](https://komarev.com/ghpvc/?username=varchasa&color=green&style=for-the-badge)
 
 **Languages and Tools:**  
 <br>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/hive/hive.png"></code>
+<img src="https://tse4.mm.bing.net/th/id/OIP.gB6cYmHNKkkwFYO1UBPfSQHaCy?r=0&w=840&h=316&rs=1&pid=ImgDetMain&o=7&rm=3" height="30">
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png"></code>
+<img src="https://github.com/user-attachments/assets/4faa59f8-713c-46fd-b321-5beb335ca2c3" height="30">
+
 <br><br>
 <div align="center">
 
